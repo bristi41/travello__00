@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Book</title>
+    <!-- Link Bootstrap CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Custom CSS -->
+    <style>
+        /* Add custom CSS here */
+        body {
+            background-color: #f8f9fa;
+        }
+        .form-container {
+            background-color: #ffffff;
+            border-radius: 10px;
+            padding: 20px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+  
+<!-- Navigation (Assuming it's the same for all pages) -->
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <a class="navbar-brand" href="index.html">Travello</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  
+  <div class="collapse navbar-collapse" id="navbarNav">
+    <ul class="navbar-nav ml-auto">
+      <li class="nav-item">
+        <a class="nav-link" href="index.html">Home</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link active" href="book.html">Book</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="packages.html">Packages</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="destinations.html">Destinations</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="about.html">About</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="contact.html">Contact</a>
+      </li>
+      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Register</button>
+    </ul>
+  </div>
+</nav>
+
+<!-- Main Content -->
+<div class="container">
+    <h1 class="text-center my-4">Book Your Travel</h1>
+
+    <!-- Most Popular Section -->
+    <section id="most-popular">
+        <h2 class="text-center mb-4">Most Popular</h2>
+        <div class="row">
+            <div class="col-md-4">
+                <div class="card">
+                    <img src="pariss.jpg" class="card-img-top" alt="Most Popular 1">
+                    <div class="card-body">
+                        <h5 class="card-title">Most Popular</h5>
+                        <p class="card-text">Paris, France</p>
+                        <p class="card-text">Description: Paris, where the Eiffel Tower kisses the sky and the Seine whispers tales of romance. In its cobbled streets, history dances with art beneath the city's timeless allure.</p>
+                        <p class="card-text">Ratings: 4.8/5</p>
+                        <p class="card-text">Price: $1200</p>
+                        <a href="#" class="btn btn-primary">Book Now</a>
+                    </div>
+                </div>
+            </div>
+            <!-- Add more cards for most popular packages -->
+            <div class="col-md-4">
+                <div class="card">
+                    <img src="balii.jpg" class="card-img-top" alt="Most Popular 2">
+                    <div class="card-body">
+                        <h5 class="card-title">Most Popular</h5>
+                        <p class="card-text">Place: Bali, Indonesia</p>
+                        <p class="card-text">Description: In Bali, Indonesia where temples echo with the soulful chants of ceremonies. Its vibrant culture and serene landscapes weave a tapestry of tranquility and wonder.</p>
+                        <p class="card-text">Ratings: 4.7/5</p>
+                        <p class="card-text">Price: $1100</p>
+                        <a href="#" class="btn btn-primary">Book Now</a>
+                    </div>
+                </div>
+            </div>
+            <!-- Add more cards as needed -->
+            <!-- Add more cards for most popular packages -->
+            <div class="col-md-4">
+                <div class="card">
+                    <img src="santorinii.jpg" class="card-img-top" alt="Most Popular 2">
+                    <div class="card-body">
+                        <h5 class="card-title">Most Popular</h5>
+                        <p class="card-text">Place: Santorini, Greece</p>
+                        <p class="card-text">Description: Santorini, where whitewashed buildings cling to cliffs like a scene from a dream, overlooking the azure embrace of the Aegean Sea. Sunset hues paint the sky looks amazing.</p>
+                        <p class="card-text">Ratings: 4.7/5</p>
+                        <p class="card-text">Price: $1100</p>
+                        <a href="#" class="btn btn-primary">Book Now</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Recently Visited Section -->
+    <section id="recently-visited" class="mt-5">
+        <h2 class="text-center mb-4">Recently Visited</h2>
+        <div class="row">
+            <div class="col-md-4">
+                <div class="card">
+                    <img src="tajmahal.jpg" class="card-img-top" alt="Recently Visited 1">
+                    <div class="card-body">
+                        <h5 class="card-title">Recently Visited</h5>
+                        <p class="card-text">Place: Tajmahal, India</p>
+                        <p class="card-text">Description: In Agra, the Taj Mahal stands as an eternal ode to love, its marble facade glowing in the embrace of dawn and dusk. It whispers tales of Mughal grandeur and devotion with each intricately carved detail.</p>
+                        <p class="card-text">Ratings: 4.6/5</p>
+                        <p class="card-text">Price: $1000</p>
+                        <a href="#" class="btn btn-primary">Book Now</a>
+                    </div>
+                </div>
+            </div>
+            <!-- Add more cards for recently visited packages -->
+            <div class="col-md-4">
+                <div class="card">
+                    <img src="chinaa.jpg" class="card-img-top" alt="Recently Visited 2">
+                    <div class="card-body">
+                        <h5 class="card-title">Recently Visited</h5>
+                        <p class="card-text">Place: Great Wall, China</p>
+                        <p class="card-text">Description: The Great Wall of China, a monumental feat spanning centuries,
+                        embodying the resilience of a nation's spirit. Its ancient stones bear witness to history's whispers.</p>
+                        <p class="card-text">Ratings: 4.5/5</p>
+                        <p class="card-text">Price: $950</p>
+                        <a href="#" class="btn btn-primary">Book Now</a>
+                    </div>
+                </div>
+            </div>
+            <!-- Add more cards as needed -->
+            <!-- Add more cards for most popular packages -->
+            <div class="col-md-4">
+                <div class="card">
+                    <img src="singapore.jpg" class="card-img-top" alt="Most Popular 2">
+                    <div class="card-body">
+                        <h5 class="card-title">Recently Visited</h5>
+                        <p class="card-text">Place: Singapore</p>
+                        <p class="card-text">Description: A harmonious blend of modernity and tradition creates a city-state where cities stand alongside heritage-rich neighborhoods. It's dynamic spirit welcomes all to explore its vibrant tapestry.</p>
+                        <p class="card-text">Ratings: 4.7/5</p>
+                        <p class="card-text">Price: $1100</p>
+                        <a href="#" class="btn btn-primary">Book Now</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Booking Form -->
+    <div class="row justify-content-center">
+        <div class="col-md-6 form-container">
+            <form>
+                <div class="form-group">
+                    <label for="inputDestination">Destination</label>
+                    <select class="form-control" id="inputDestination">
+                        <option selected>Select Destination</option>
+                        <option value="paris">Paris, France</option>
+                        <option value="santorini">Santorini, Greece</option>
+                        <option value="machu-picchu">Machu Picchu, Peru</option>
+                        <!-- Add more destinations as needed -->
+                    </select>
+                </div>
+                <div class="form-row">
+                    <div class="form-group col-md-6">
+                        <label for="inputMembers">Number of Travelers</label>
+                        <input type="number" class="form-control" id="inputMembers" min="1" max="10">
+                    </div>
+                    <div class="form-group col-md-6">
+                        <label for="inputStartDate">Start Date</label>
+                        <input type="date" class="form-control" id="inputStartDate">
+                    </div>
+                    <div class="form-group col-md-6">
+                        <label for="inputEndDate">End Date</label>
+                        <input type="date" class="form-control" id="inputEndDate">
+                    </div>
+                </div>
+                <button type="submit" class="btn btn-primary btn-block">Submit</button>
+            </form>
+        </div>
+    </div>
+</div>
+
+<!-- Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
