@@ -27,8 +27,9 @@ This project helps in:
 - Learning responsive design basics
 
 ---
-## website 
- 
+
+## website
+
 <img width="1011" height="463" alt="image" src="https://github.com/user-attachments/assets/4e30d1f2-9ad1-48b2-abb3-040f09548140" />
 
 <img width="1011" height="468" alt="image" src="https://github.com/user-attachments/assets/89a8f9a3-4083-4050-b48e-a8f5a1ba330c" />
@@ -36,10 +37,6 @@ This project helps in:
 <img width="1011" height="650" alt="image" src="https://github.com/user-attachments/assets/6e90bd32-2359-49b7-9b10-a4dfa60cd1dd" />
 
 <img width="1011" height="645" alt="image" src="https://github.com/user-attachments/assets/669e225a-39dc-471a-8d4f-a4232c0849d2" />
-
-
-
-
 
 ##✨ Features
 
@@ -55,8 +52,9 @@ This project helps in:
 ## 🛠️ Technologies Used
 
 ### Frontend
-- HTML5  
-- CSS3  
+
+- HTML5
+- CSS3
 
 ---
 
@@ -72,12 +70,11 @@ This project helps in:
 
 ## 📋 Project Objectives
 
-- Build a complete static website using HTML & CSS  
-- Practice responsive layout techniques  
-- Improve UI/UX design sense  
-- Create a portfolio-ready web project  
+- Build a complete static website using HTML & CSS
+- Practice responsive layout techniques
+- Improve UI/UX design sense
+- Create a portfolio-ready web project
 
 ---
 
 ## ⚙️ How to Run the Project
-
