@@ -1,19 +1,14 @@
 # Travello - Main Version
 ### Responsive Travel Website Using HTML & CSS
-
 **Travello** is a static travel-themed website developed using **HTML5 and CSS3**.  
 The project focuses on clean UI design, responsive layout, and beginner-friendly front-end structure.  
 It is suitable for **portfolio showcasing**, **practice**, and **basic web design learning**.
-
 This project was developed as a **front-end practice website**  
 using core **HTML and CSS** concepts.
 
 ## For live View (click here)
-
 https://bristi41.github.io/travello__00/
 
-
----
 
 ## 🎯 Project Motivation
 
@@ -26,7 +21,6 @@ This project helps in:
 - Practicing CSS layout and styling
 - Learning responsive design basics
 
----
 
 ## website
 
@@ -47,7 +41,6 @@ This project helps in:
 - 🎨 Clean and simple layout
 - ⚡ Fast loading (no frameworks)
 
----
 
 ## 🛠️ Technologies Used
 
@@ -56,7 +49,6 @@ This project helps in:
 - HTML5
 - CSS3
 
----
 
 ## 🏗️ Website Structure
 
@@ -66,7 +58,6 @@ This project helps in:
 - **Services Section**
 - **Contact Section**
 
----
 
 ## 📋 Project Objectives
 
@@ -75,6 +66,5 @@ This project helps in:
 - Improve UI/UX design sense
 - Create a portfolio-ready web project
 
----
 
 ## ⚙️ How to Run the Project
