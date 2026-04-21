@@ -30,7 +30,7 @@ This project helps in:
 
 ## website
 
-<img width="1011" height="463" alt="image" src="https://github.com/user-attachments/assets/4e30d1f2-9ad1-48b2-abb3-040f09548140" />
+<img width="1011" height="463" alt="image" src="banner.jpg" width="100% alt="Banner" />
 
 <img width="1011" height="468" alt="image" src="https://github.com/user-attachments/assets/89a8f9a3-4083-4050-b48e-a8f5a1ba330c" />
 
