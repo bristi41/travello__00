@@ -30,7 +30,7 @@ This project helps in:
 
 <img width="1011" height="650" alt="image" src="https://github.com/user-attachments/assets/6e90bd32-2359-49b7-9b10-a4dfa60cd1dd" />
 
-<img width="1011" height="645" alt="image" src="https://github.com/user-attachments/assets/669e225a-39dc-471a-8d4f-a4232c0849d2" />
+<img src="background.jpg.png" width="100%" alt="Project Background"/>
 
 ##✨ Features
 
